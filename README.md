@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **python-sage-bbb**
 
-- 🌱 I’m currently learning **SaaS**
+- 🌱 I’m currently learning **bbb**
 
 - 💬 Ask me about **Python, Django**
 
