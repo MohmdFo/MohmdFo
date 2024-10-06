@@ -9,10 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohmdfo" alt="mohmdfo" /></a> </p>
 
-- 🔭 I’m currently working on **python-sage-bbb**
-
-- 🌱 I’m currently learning **bbb**
-
 - 💬 Ask me about **Python, Django**
 
 - ⚡ Fun fact **I like memes**
